@@ -1,4 +1,4 @@
-import assignment_4.CheckPalindrome;
+// Assignment-4: Program-3 Check for if given String is a Palindrome or Not.
 
 class CheckPalindrome{
 	
